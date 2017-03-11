@@ -1,2 +1,2 @@
 # sandbox
-tests proposal
+proposal
