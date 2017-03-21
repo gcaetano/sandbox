@@ -15,7 +15,7 @@ This project is a web-based system to provide a service to:
 + [mongodb](https://mongodb.github.io/node-mongodb-native/)
 + [hapi](https://hapijs.com/)
 
-## Tests
+## Tests 45
 
 All requests will be done through POST and GET methods, I suggest to use the [postman](https://www.getpostman.com/)
 
